@@ -8,9 +8,8 @@ It's assumed you already have a Google Calendar set up for use. No specific perm
 
 ### 1. Copy the Script
 - Make sure you're logged into the Google account that owns the calendar.
-- Click this link to access the script.
+- Click [***_this link_***](https://script.google.com/d/1Lw2PWW5zFw24C8z-tp1TupqMczjacwszlL-HaLyKl-bFfGd8Pr1vUqWt/) to access the script.
 - Click the "*copy* icon on the top right. ![image](https://github.com/user-attachments/assets/8f78903a-b509-4970-a31c-9a2b9b77986d)
-
 
 ### 2. Gather Calendar URL
 
@@ -24,6 +23,7 @@ It's assumed you already have a Google Calendar set up for use. No specific perm
 - On the script page, paste the Scoutbook calendar link from step 2 over the red text labeled "SCOUTBOOK CALENDAR URL". Make sure it's in quotation marks!
 - Replace "Google Calendar Name" with the name of the calendar as shown on Google. For example, "Pack 27 Calendar".
 ![image](https://github.com/user-attachments/assets/7aa78f13-1db8-4857-812b-0a5b8d85f903)
+- You can take a look at any other settings options listed, but the defaults are perfect as they are for what you're trying to do.
 - Press the "Save" button on the script toolbar
 ![image](https://github.com/user-attachments/assets/2e23ca1d-e339-421e-b6ba-96dafbaae7f7)
 
