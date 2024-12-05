@@ -43,9 +43,12 @@ It's assumed you already have a Google Calendar set up for use. No specific perm
   ## Manual Sync
   If you want to push changes manually (say, you just make a change and need it to update immediately), just change the "Install" dropdown to "StartSync", press "Run", and watch it work!
 
-
+## Need Help?
+Submit an [issue](https://github.com/RedWedgeX/scoutbook-gcal-sync/issues) and I'll do the best I can to help!
 
 ## Credit 
+
+Updated for Scoutbook use by [RedWedgeX](https://bsky.app/profile/redwedgex.wtf)
 
 ### Orignal Author
 [Derek Antrican](https://github.com/derekantrican) 
