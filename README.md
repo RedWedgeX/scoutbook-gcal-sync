@@ -40,8 +40,10 @@ It's assumed you already have a Google Calendar set up for use. No specific perm
 
   That's it! The script is now configured to pull the calendar from Scoutbook every 15 minutes and make updates! No need to touch ANYTHING in the Google Calendar. This will add new events, update changed events, and delete cancelled events automatically!
 
-  ## Manual Sync
+## Manual Sync
   If you want to push changes manually (say, you just make a change and need it to update immediately), just change the "Install" dropdown to "StartSync", press "Run", and watch it work!
+  ![image](https://github.com/user-attachments/assets/e6ce130c-236f-4222-862c-d81344c5e2c3)
+
 
 ## Need Help?
 Submit an [issue](https://github.com/RedWedgeX/scoutbook-gcal-sync/issues) and I'll do the best I can to help!
@@ -50,7 +52,7 @@ Submit an [issue](https://github.com/RedWedgeX/scoutbook-gcal-sync/issues) and I
 
 Updated for Scoutbook use by [RedWedgeX](https://bsky.app/profile/redwedgex.wtf)
 
-### Orignal Author
+### Orignal Author of GAS-ICS-Sync
 [Derek Antrican](https://github.com/derekantrican) 
 
 ### Additional Contributors to original project
